@@ -1,4 +1,4 @@
-website
+website for new users
 =======
 
 The MacGap website
